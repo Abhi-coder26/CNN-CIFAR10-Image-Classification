@@ -106,9 +106,9 @@ The confusion matrix indicates strong classification performance across most cla
 ## Repository Contents
 
 ```text
-CNN_CIFAR10_Project.ipynb
+01_README.md
 CIFAR10_Project_Report.pdf
-README.md
+CNN_CIFAR10_Project.ipynb
 ```
 
 ---
